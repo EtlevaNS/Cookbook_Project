@@ -2,7 +2,8 @@
 
 ## Favorite Fruits
     - Apples
-    - Bannnanas
+    - Bannnana
+	  - Blueberries
     - Cherries
     - Shoes
     - Elderberrie
